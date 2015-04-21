@@ -1,6 +1,6 @@
 name: ssk times
 markdown: redcarpet
 pygments: true
-port: 4000
+port: 5000
 permalink: pretty
 url: 'http://kalburgimanjunath/papar'
