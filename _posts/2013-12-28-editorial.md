@@ -5,7 +5,6 @@ published: true
 category: highlights
 ---
 <pre>
-
 category:news,headline.highlights,featured,movies
 JAN-15 EDITION
 Warm Greetings of the New Year
